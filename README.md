@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://dev.to/stig124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="stig124" height="30" width="40" /></a>
 <a href="https://twitter.com/stig124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="stig124" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nicolas-formichella" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="nicolas-formichella" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11478363/nicolas-formichella" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="nicolasformichella" height="30" width="40" /></a>
 <a href="https://medium.com/@stig124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@stig124" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/stig124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="stig124" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/stig124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="stig124" height="30" width="40" /></a>
